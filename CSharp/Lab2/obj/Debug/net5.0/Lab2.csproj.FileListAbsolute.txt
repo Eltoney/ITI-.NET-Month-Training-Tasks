@@ -1,0 +1,16 @@
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/bin/Debug/net5.0/Lab2
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/bin/Debug/net5.0/Lab2.deps.json
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/bin/Debug/net5.0/Lab2.runtimeconfig.json
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/bin/Debug/net5.0/Lab2.runtimeconfig.dev.json
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/bin/Debug/net5.0/Lab2.dll
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/bin/Debug/net5.0/ref/Lab2.dll
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/bin/Debug/net5.0/Lab2.pdb
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/obj/Debug/net5.0/Lab2.csproj.AssemblyReference.cache
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/obj/Debug/net5.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/obj/Debug/net5.0/Lab2.AssemblyInfoInputs.cache
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/obj/Debug/net5.0/Lab2.AssemblyInfo.cs
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/obj/Debug/net5.0/Lab2.csproj.CoreCompileInputs.cache
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/obj/Debug/net5.0/Lab2.dll
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/obj/Debug/net5.0/ref/Lab2.dll
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/obj/Debug/net5.0/Lab2.pdb
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab2/obj/Debug/net5.0/Lab2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/bin/Debug/net5.0/task
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/bin/Debug/net5.0/task.deps.json
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/bin/Debug/net5.0/task.runtimeconfig.json
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/bin/Debug/net5.0/task.runtimeconfig.dev.json
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/bin/Debug/net5.0/task.dll
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/bin/Debug/net5.0/ref/task.dll
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/bin/Debug/net5.0/task.pdb
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/obj/Debug/net5.0/task.csproj.AssemblyReference.cache
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/obj/Debug/net5.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/obj/Debug/net5.0/task.AssemblyInfoInputs.cache
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/obj/Debug/net5.0/task.AssemblyInfo.cs
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/obj/Debug/net5.0/task.csproj.CoreCompileInputs.cache
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/obj/Debug/net5.0/task.dll
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/obj/Debug/net5.0/ref/task.dll
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/obj/Debug/net5.0/task.pdb
+/home/eltoney/Desktop/Data/Prog/ITI/CSharp/Lab1/task/obj/Debug/net5.0/task.genruntimeconfig.cache
