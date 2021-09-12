@@ -1,0 +1,16 @@
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/bin/Debug/net5.0/methods
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/bin/Debug/net5.0/methods.deps.json
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/bin/Debug/net5.0/methods.runtimeconfig.json
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/bin/Debug/net5.0/methods.runtimeconfig.dev.json
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/bin/Debug/net5.0/methods.dll
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/bin/Debug/net5.0/ref/methods.dll
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/bin/Debug/net5.0/methods.pdb
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/obj/Debug/net5.0/methods.csproj.AssemblyReference.cache
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/obj/Debug/net5.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/obj/Debug/net5.0/methods.AssemblyInfoInputs.cache
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/obj/Debug/net5.0/methods.AssemblyInfo.cs
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/obj/Debug/net5.0/methods.csproj.CoreCompileInputs.cache
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/obj/Debug/net5.0/methods.dll
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/obj/Debug/net5.0/ref/methods.dll
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/obj/Debug/net5.0/methods.pdb
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/CSharp/Lab3/methods/obj/Debug/net5.0/methods.genruntimeconfig.cache
