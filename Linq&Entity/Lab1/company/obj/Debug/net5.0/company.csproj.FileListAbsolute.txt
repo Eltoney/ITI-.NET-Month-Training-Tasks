@@ -1,0 +1,16 @@
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/bin/Debug/net5.0/company
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/bin/Debug/net5.0/company.deps.json
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/bin/Debug/net5.0/company.runtimeconfig.json
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/bin/Debug/net5.0/company.runtimeconfig.dev.json
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/bin/Debug/net5.0/company.dll
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/bin/Debug/net5.0/ref/company.dll
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/bin/Debug/net5.0/company.pdb
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/obj/Debug/net5.0/company.csproj.AssemblyReference.cache
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/obj/Debug/net5.0/company.GeneratedMSBuildEditorConfig.editorconfig
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/obj/Debug/net5.0/company.AssemblyInfoInputs.cache
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/obj/Debug/net5.0/company.AssemblyInfo.cs
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/obj/Debug/net5.0/company.csproj.CoreCompileInputs.cache
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/obj/Debug/net5.0/company.dll
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/obj/Debug/net5.0/ref/company.dll
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/obj/Debug/net5.0/company.pdb
+/home/eltoney/Desktop/Data/Prog/My Repos/ITI-.NET-Month-Training-Tasks/Linq&Entity/Lab1/company/obj/Debug/net5.0/company.genruntimeconfig.cache
